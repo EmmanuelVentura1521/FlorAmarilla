@@ -2,7 +2,7 @@ from turtle import *
 import colorsys
 
 # Agregar el texto en la cabecera
-header_text = "PROGRAMEX # BY PROGRAMEX"
+header_text = "PARA MI DOCTORA HERMOSA DE PARTE DE TU PRECIOSOTE EMMANUEL"
 color("white")  # Color del texto
 penup()
 goto(-180, 250)  # Posición del texto
